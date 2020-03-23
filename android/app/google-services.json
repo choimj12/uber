@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471754632313",
+    "firebase_url": "https://uber-40ae3.firebaseio.com",
+    "project_id": "uber-40ae3",
+    "storage_bucket": "uber-40ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471754632313:android:9a2bf9105a697e3219b8a8",
+        "android_client_info": {
+          "package_name": "minji.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471754632313-lcspb2kk79qnjqp3kq3ndvp55frtg6c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu-75fJvZ2klapw04CMf74_khKcGDUctE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471754632313-lcspb2kk79qnjqp3kq3ndvp55frtg6c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
